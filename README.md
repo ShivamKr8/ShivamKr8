@@ -2,7 +2,7 @@
 - I’m interested in Data Analytics.
 - I’m currently learning Python, Tableau, Power BI and have a working knowledge of SQL,PERL and MS Excel.
 - I’m looking to collaborate on any oppurtunities which will help me leverage my data analytics skill for improving corporate performance.
-- 📫 How to reach me ...
+- 📫 How to reach me Email: shivam.1si14im033@gmail.com ..
 
 <!---
 ShivamKr8/ShivamKr8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
